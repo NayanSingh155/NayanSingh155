@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think writing poem is the fun fact for me.**<br/><br/><br/>
 
-- 📄 Know about my experiences Here is my Resume-->
+- 📄 Know about my experiences Here is my Resume-
 [NAYAN_RESUME.PDF](https://drive.google.com/file/d/1Tn9zoiL2omBVFan1HMUahh1FFRN9KY1_/view?usp=share_link)
 
 
