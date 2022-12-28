@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I think writing poem is the fun fact for me.**<br/><br/><br/>
 
 - 📄 Know about my experiences Here is my Resume-->
-<!-- [SK_ISMILE_RESUME.pdf](https://github.com/skismile/skismile/files/10132682/SK_ISMILE_RESUME.pdf) -->
+[NAYAN_RESUME.PDF](https://drive.google.com/file/d/1Tn9zoiL2omBVFan1HMUahh1FFRN9KY1_/view?usp=share_link)
 
 
 <br/>
