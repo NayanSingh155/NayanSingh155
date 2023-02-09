@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nayansingh.bbsa@gmail.com**<br/>
 
-- ⚡ Fun fact **I think writing poem is the fun fact for me.**<br/><br/><br/>
+- ⚡ Fun fact **I think writing poem is the fun fact for me.**<br/>
 
 - 📄 Know about my experiences Here is my Resume-
 [Nanhi_Resume.PDF](https://drive.google.com/file/d/1-LIb2w9fRyENnHu8clU3SFThc7y79dmP/view?usp=share_link)
