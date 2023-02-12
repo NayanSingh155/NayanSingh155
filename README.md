@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I think writing poem is the fun fact for me.**<br/>
 
 - 📄 Know about my experiences Here is my Resume-
-[Nanhi_Resume.PDF](https://drive.google.com/file/d/12KVS4znVo7wSae9Mfy3bGO6z8LlRgE02/view?usp=share_link)
+[Nanhi_Resume.PDF](https://drive.google.com/file/d/1ddn0bII3a0bU6mau_gG2DAAH-SvIdLjP/view?usp=share_link)
 
 
 <br/>
