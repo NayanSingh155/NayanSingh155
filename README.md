@@ -2,7 +2,7 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Nanhi Kumari</h1>
-<h3 align="center">A passionate frontend developer from India who focuses on writing clean, elegant and efficient code.</h3><br/>
+<h3 align="center">A passionate Full Stack Developer from India who focuses on writing clean, elegant and efficient code.</h3><br/>
 <img align="right" margin-top="10px" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayansingh155&label=Profile%20views&color=0e75b6&style=flat" alt="nayansingh155" /> </p>
@@ -20,8 +20,7 @@
 - ⚡ Fun fact **I think writing poem is the fun fact for me.**<br/>
 
 - 📄 Know about my experiences Here is my Resume-
-[Nanhi_Resume.PDF]([https://drive.google.com/file/d/1s6tsOY53p1U6yDZvwu4IKexgF0rIR5nX/view)](https://drive.google.com/drive/folders/1z2voIXzFnVELRORqAQDtl4sQV0w-3Aqc?usp=sharing)
-
+[Nanhi_Resume.PDF]([https://drive.google.com/file/d/1s6tsOY53p1U6yDZvwu4IKexgF0rIR5nX/view)]
 
 <br/>
 <hr/>
